@@ -1,0 +1,9 @@
+2019-06-21 17:02:51  [ main:0 ] - [ INFO ]  Info Level.
+2019-06-21 17:02:51  [ main:4 ] - [ WARN ]  Warn Level.
+2019-06-21 17:02:51  [ main:4 ] - [ ERROR ]  Error Level.
+2019-06-21 17:02:59  [ main:0 ] - [ INFO ]  Info Level.
+2019-06-21 17:02:59  [ main:3 ] - [ WARN ]  Warn Level.
+2019-06-21 17:02:59  [ main:4 ] - [ ERROR ]  Error Level.
+2019-06-21 17:03:01  [ main:0 ] - [ INFO ]  Info Level.
+2019-06-21 17:03:01  [ main:3 ] - [ WARN ]  Warn Level.
+2019-06-21 17:03:01  [ main:4 ] - [ ERROR ]  Error Level.
